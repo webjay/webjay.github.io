@@ -7,7 +7,9 @@
 	<meta name="description" content="Pictures and tweets tagged egypt" />
 	<link rel="stylesheet" type="text/css" href="http://static.webcom.dk/blueprint-css/blueprint/screen.css" media="screen, projection" />
 	<!--[if lt IE 8]><link rel="stylesheet" href="http://static.webcom.dk/blueprint-css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
-	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" async="async"></script><![endif]-->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script src="http://gignal.com/js/facybox/facybox.js"></script>
+	<link rel="stylesheet" href="http://gignal.com/js/facybox/facybox.css" media="screen, projection" />
 	<style>
 		body {
 			font-size: 1.2em;
@@ -22,8 +24,17 @@
 			<div id="gignal-images" data-limit="36"></div>
 			<div id="gignal-messages" data-limit="50"></div>
 		</div>
-		<script src="http://gignal.com/js/widget.js" async="async"></script>
+		<script src="http://gignal.com/js/widget.js"></script>
 	</div>
+	
+	<script>
+		jQuery(function(){
+			jQuery('a').live('click', function(){
+				jQuery.facybox('<img src="'+ jQuery(this).find('img').attr('data-imgsrc') +'" />');
+				return false;
+			})
+		});
+	</script>
 
 </body>
 </html>
