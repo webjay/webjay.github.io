@@ -7,14 +7,10 @@
 	<meta name="description" content="Pictures and tweets tagged egypt" />
 	<link rel="stylesheet" type="text/css" href="http://static.webcom.dk/blueprint-css/blueprint/screen.css" media="screen, projection" />
 	<!--[if lt IE 8]><link rel="stylesheet" href="http://static.webcom.dk/blueprint-css/blueprint/ie.css" type="text/css" media="screen, projection"><![endif]-->
+	<link rel="stylesheet" href="http://gignal.com/css/theme1.css" media="screen, projection" />
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 	<script src="http://gignal.com/js/facybox/facybox.js"></script>
 	<link rel="stylesheet" href="http://gignal.com/js/facybox/facybox.css" media="screen, projection" />
-	<style>
-		body {
-			font-size: 1.2em;
-		}
-	</style>
 </head>
 <body>
 
@@ -25,16 +21,38 @@
 			<div id="gignal-messages" data-limit="50"></div>
 		</div>
 		<script src="http://gignal.com/js/widget.js"></script>
+		<div id="ajax-loader" class="span-24">
+			<img src="http://gignal.com/img/ajax/ajax-throbber.gif" alt="Ajax Loader" />
+			<p class="small">due to the amount of data, this could take a while</p>
+		</div>
 	</div>
-	
+
 	<script>
 		jQuery(function(){
 			jQuery('a').live('click', function(){
-				jQuery.facybox('<img src="'+ jQuery(this).find('img').attr('data-imgsrc') +'" />');
+				jQuery.facybox({
+					image: jQuery(this).find('img').attr('data-imgsrc')
+				});
+				// var images = new Array();
+				// jQuery('#gignal-images img').each(function(){
+				// 	images.push(jQuery(this).attr('data-imgsrc'));
+				// });
+				// jQuery.facybox({
+				// 	images: images
+				// });
 				return false;
 			})
 		});
 	</script>
+
+	<footer>
+		<div id="gignal-line">
+			Powered by Gignal
+		</div>
+		<div id="gignal-g">
+			<a href="http://gignal.com/"><img src="http://gignal.com/img/Gignal-G.png" alt="Gignal"></a>
+		</div>
+	</footer>
 
 </body>
 </html>
