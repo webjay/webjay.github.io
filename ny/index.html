@@ -5,159 +5,25 @@
   <meta charset="UTF-8" />
   <title>Top NYC Spots</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
   <link rel="stylesheet" href="vendor/leaflet/dist/leaflet.css" />
   <link rel="stylesheet" href="vendor/leaflet.markercluster/dist/MarkerCluster.css" />
   <link rel="stylesheet" href="vendor/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+  <link rel="stylesheet" href="styles.css" />
   <script defer src="vendor/leaflet/dist/leaflet.js"></script>
   <script defer src="vendor/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
   <script defer src="app.js"></script>
-
-  <style>
-    :root {
-      --mobile-sheet-height: 50dvh;
-    }
-
-    body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-      display: flex;
-      height: 100vh;
-    }
-
-    #sidebar {
-      width: 320px;
-      overflow-y: auto;
-      border-right: 1px solid #ddd;
-      background: #fafafa;
-    }
-
-    main {
-      flex: 1;
-      min-width: 0;
-    }
-
-    #map {
-      width: 100%;
-      height: 100%;
-    }
-
-    h1 {
-      font-size: 18px;
-      margin: 0;
-    }
-
-    .sidebar-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      padding: 16px 16px 12px;
-      border-bottom: 1px solid #eee;
-    }
-
-    #list {
-      padding: 0 16px 16px;
-    }
-
-    .place {
-      width: 100%;
-      display: block;
-      padding: 8px;
-      border-bottom: 1px solid #eee;
-      cursor: pointer;
-      border-left: 0;
-      border-right: 0;
-      border-top: 0;
-      background: transparent;
-      text-align: left;
-      font: inherit;
-      color: inherit;
-    }
-
-    .place:hover {
-      background: #f0f0f0;
-    }
-
-    .place:focus-visible {
-      outline: 2px solid #1d4ed8;
-      outline-offset: -2px;
-    }
-
-    .rank {
-      font-weight: bold;
-      margin-right: 6px;
-    }
-
-    .checkins {
-      color: #666;
-      font-size: 12px;
-    }
-
-    @media (max-width: 768px) {
-      body {
-        display: block;
-        min-height: 100dvh;
-        height: 100dvh;
-      }
-
-      #sidebar {
-        position: fixed;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        z-index: 1000;
-        width: auto;
-        height: var(--mobile-sheet-height);
-        border-right: 0;
-        border-top: 1px solid #ddd;
-        border-radius: 18px 18px 0 0;
-        box-shadow: 0 -10px 30px rgba(0, 0, 0, 0.12);
-        overflow: hidden;
-      }
-
-      .sidebar-header {
-        position: sticky;
-        top: 0;
-        background: #fafafa;
-        z-index: 1;
-        padding-top: 20px;
-      }
-
-      .sidebar-header::before {
-        content: "";
-        position: absolute;
-        top: 8px;
-        left: 50%;
-        width: 48px;
-        height: 5px;
-        border-radius: 999px;
-        background: #d1d5db;
-        transform: translateX(-50%);
-      }
-
-      #map {
-        height: 100dvh;
-        min-height: 100dvh;
-      }
-
-      #list {
-        height: calc(100% - 70px);
-        overflow-y: auto;
-        -webkit-overflow-scrolling: touch;
-      }
-    }
-  </style>
 </head>
 
 <body>
   <aside id="sidebar" aria-label="Top NYC spots">
     <header class="sidebar-header">
-      <h1>Top NYC Spots</h1>
+      <div>
+        <h1>Top NYC Spots</h1>
+        <p id="summary" class="sidebar-summary">Loading enriched Foursquare data...</p>
+      </div>
     </header>
     <section id="list" aria-label="Spots list"></section>
   </aside>
-
   <main aria-label="NYC spots map">
     <div id="map"></div>
   </main>

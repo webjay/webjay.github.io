@@ -8,7 +8,17 @@
     "longitude": -74.00973688276765,
     "foursquare_url": "https://app.foursquare.com/v/makeable/4b14152bf964a520039d23e3",
     "first_checkin": "2013-10-23 16:04:06.000000",
-    "last_checkin": "2014-01-17 14:50:25.000000"
+    "last_checkin": "2014-01-17 14:50:25.000000",
+    "visit_span_days": 86,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 1,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 2,
@@ -19,7 +29,20 @@
     "longitude": -73.96178127190923,
     "foursquare_url": "https://app.foursquare.com/v/central-park-tennis-center/4a78425df964a52053e51fe3",
     "first_checkin": "2014-04-27 14:09:12.000000",
-    "last_checkin": "2014-08-29 20:56:24.000000"
+    "last_checkin": "2014-08-29 20:56:24.000000",
+    "visit_span_days": 124,
+    "note_count": 4,
+    "latest_note": {
+      "text": "vs Dan",
+      "created_at": "2014-07-05 12:43:36.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 3,
@@ -30,7 +53,20 @@
     "longitude": -73.98818818285852,
     "foursquare_url": "https://app.foursquare.com/v/ace-hotel-new-york/4a0e0f85f964a520bf751fe3",
     "first_checkin": "2013-10-30 23:06:48.000000",
-    "last_checkin": "2015-03-03 00:36:18.000000"
+    "last_checkin": "2015-03-03 00:36:18.000000",
+    "visit_span_days": 488,
+    "note_count": 1,
+    "latest_note": {
+      "text": "bugger. No chairs",
+      "created_at": "2014-11-22 22:49:44.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 4,
@@ -41,7 +77,17 @@
     "longitude": -73.97827095039604,
     "foursquare_url": "https://app.foursquare.com/v/le-pain-quotidien/4a6c7ec6f964a520a3d01fe3",
     "first_checkin": "2013-07-31 17:22:06.000000",
-    "last_checkin": "2015-08-19 18:24:48.000000"
+    "last_checkin": "2015-08-19 18:24:48.000000",
+    "visit_span_days": 749,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 5,
@@ -52,7 +98,20 @@
     "longitude": -73.98046334562196,
     "foursquare_url": "https://app.foursquare.com/v/levain-bakery/485f7eecf964a520da501fe3",
     "first_checkin": "2013-08-01 21:07:21.000000",
-    "last_checkin": "2015-03-10 18:56:05.000000"
+    "last_checkin": "2015-03-10 18:56:05.000000",
+    "visit_span_days": 586,
+    "note_count": 1,
+    "latest_note": {
+      "text": "A",
+      "created_at": "2014-02-21 13:28:30.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 6,
@@ -63,7 +122,27 @@
     "longitude": -73.97543572160268,
     "foursquare_url": "https://app.foursquare.com/v/the-coffee-bean--tea-leaf/4f1dbd48e4b0a6271b67e55e",
     "first_checkin": "2013-09-24 16:05:06.000000",
-    "last_checkin": "2014-06-20 19:11:31.000000"
+    "last_checkin": "2014-06-20 19:11:31.000000",
+    "visit_span_days": 269,
+    "note_count": 1,
+    "latest_note": {
+      "text": "homework with the spoiled kids",
+      "created_at": "2014-02-26 20:41:59.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 1,
+    "latest_tip": {
+      "text": "Happy and kind staff.",
+      "created_at": "2013-10-21 14:22:48.000000",
+      "agree_count": 0,
+      "canonical_url": "https://app.foursquare.com/item/526538b8498ed62610589534"
+    },
+    "lists": [
+      "Open office"
+    ],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 7,
@@ -74,7 +153,22 @@
     "longitude": -74.0084916577519,
     "foursquare_url": "https://app.foursquare.com/v/wework/51d35ee28bbdd6ddb1edf05a",
     "first_checkin": "2013-08-08 14:24:22.000000",
-    "last_checkin": "2013-08-28 15:21:52.000000"
+    "last_checkin": "2013-08-28 15:21:52.000000",
+    "visit_span_days": 20,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 1,
+    "latest_photo": {
+      "created_at": "2013-08-08 14:24:24.000000",
+      "url": "https://fastly.4sqi.net/img/general/717x959/75719_gZueIaRQrsTCWurE_dr6XHUyWrMTCKw1kOPP48CMAv4.jpg",
+      "width": 717,
+      "height": 959
+    }
   },
   {
     "rank": 8,
@@ -85,7 +179,25 @@
     "longitude": -73.97941306516474,
     "foursquare_url": "https://app.foursquare.com/v/irving-farm-coffee-roasters/4fc64ab9e4b0acb95c508a5f",
     "first_checkin": "2014-04-14 17:19:14.000000",
-    "last_checkin": "2015-06-21 22:24:59.000000"
+    "last_checkin": "2015-06-21 22:24:59.000000",
+    "visit_span_days": 433,
+    "note_count": 6,
+    "latest_note": {
+      "text": "picking up the weekly beans",
+      "created_at": "2015-02-21 16:03:46.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 2,
+    "latest_photo": {
+      "created_at": "2015-02-21 16:03:58.000000",
+      "url": "https://fastly.4sqi.net/img/general/1440x1920/75719_lNgs5aFFcFsTFXqQ5gNCo3TWyreowjHX2T7v5CV9NOk.jpg",
+      "width": 1440,
+      "height": 1920
+    }
   },
   {
     "rank": 9,
@@ -96,7 +208,20 @@
     "longitude": -73.9761416630434,
     "foursquare_url": "https://app.foursquare.com/v/shake-shack/49b0c608f964a520cd521fe3",
     "first_checkin": "2013-08-22 21:12:43.000000",
-    "last_checkin": "2015-08-25 15:25:26.000000"
+    "last_checkin": "2015-08-25 15:25:26.000000",
+    "visit_span_days": 733,
+    "note_count": 2,
+    "latest_note": {
+      "text": "🍔",
+      "created_at": "2014-06-24 21:42:15.000000"
+    },
+    "comment_count_total": 2,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 10,
@@ -107,7 +232,22 @@
     "longitude": -74.01021890317702,
     "foursquare_url": "https://app.foursquare.com/v/benvenuto-cafe-tribeca/4bc1e64b4cdfc9b6892b9521",
     "first_checkin": "2013-10-30 17:24:21.000000",
-    "last_checkin": "2014-01-09 18:12:25.000000"
+    "last_checkin": "2014-01-09 18:12:25.000000",
+    "visit_span_days": 71,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 1,
+    "latest_tip": {
+      "text": "Ask for a lunch card if you are a regular.",
+      "created_at": "2013-11-25 17:51:22.000000",
+      "agree_count": 0,
+      "canonical_url": "https://app.foursquare.com/item/52938e1a11d2c28e5d303ec3"
+    },
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 11,
@@ -118,7 +258,17 @@
     "longitude": -74.00944996528031,
     "foursquare_url": "https://app.foursquare.com/v/new-york-sports-clubs/49f201def964a520cc691fe3",
     "first_checkin": "2014-11-13 20:09:18.000000",
-    "last_checkin": "2015-07-28 12:34:55.000000"
+    "last_checkin": "2015-07-28 12:34:55.000000",
+    "visit_span_days": 257,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 12,
@@ -129,7 +279,20 @@
     "longitude": -73.97833982183057,
     "foursquare_url": "https://app.foursquare.com/v/arte-around-the-corner/49e6d5e2f964a52072641fe3",
     "first_checkin": "2013-08-04 20:48:12.000000",
-    "last_checkin": "2014-08-30 17:12:33.000000"
+    "last_checkin": "2014-08-30 17:12:33.000000",
+    "visit_span_days": 391,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Spoiled kids decided to do homework here",
+      "created_at": "2014-02-25 21:00:22.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 13,
@@ -140,7 +303,17 @@
     "longitude": -73.98046908484366,
     "foursquare_url": "https://app.foursquare.com/v/joe-the-art-of-coffee/544e883b498e01e80f241740",
     "first_checkin": "2015-06-13 21:19:48.000000",
-    "last_checkin": "2015-09-01 20:38:26.000000"
+    "last_checkin": "2015-09-01 20:38:26.000000",
+    "visit_span_days": 80,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 14,
@@ -151,7 +324,22 @@
     "longitude": -73.9680777062784,
     "foursquare_url": "https://app.foursquare.com/v/15-dunham-place/5106c870e4b0fc9c3b64bcfb",
     "first_checkin": "2013-07-04 02:29:42.000000",
-    "last_checkin": "2013-07-15 16:06:33.000000"
+    "last_checkin": "2013-07-15 16:06:33.000000",
+    "visit_span_days": 12,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 7,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 1,
+    "latest_photo": {
+      "created_at": "2013-07-04 12:21:16.000000",
+      "url": "https://fastly.4sqi.net/img/general/959x717/75719_MMKaqAmpq4s0IABS5vWjnE18lh_BFm_fBrBUsNGROnw.jpg",
+      "width": 959,
+      "height": 717
+    }
   },
   {
     "rank": 15,
@@ -162,7 +350,17 @@
     "longitude": -74.00710296406899,
     "foursquare_url": "https://app.foursquare.com/v/chopt/4ca9ff3214c33704814ae33b",
     "first_checkin": "2013-08-27 16:32:05.000000",
-    "last_checkin": "2015-08-20 16:46:05.000000"
+    "last_checkin": "2015-08-20 16:46:05.000000",
+    "visit_span_days": 723,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 16,
@@ -173,7 +371,17 @@
     "longitude": -73.97647454510043,
     "foursquare_url": "https://app.foursquare.com/v/39-w-74/51fd83e0498eca723d06aca6",
     "first_checkin": "2013-08-03 22:27:50.000000",
-    "last_checkin": "2014-08-07 14:51:16.000000"
+    "last_checkin": "2014-08-07 14:51:16.000000",
+    "visit_span_days": 369,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 17,
@@ -184,7 +392,17 @@
     "longitude": -73.97680742658142,
     "foursquare_url": "https://app.foursquare.com/v/new-york-sports-club/4abe5fb8f964a5200f8d20e3",
     "first_checkin": "2013-10-29 00:33:21.000000",
-    "last_checkin": "2015-07-18 14:08:58.000000"
+    "last_checkin": "2015-07-18 14:08:58.000000",
+    "visit_span_days": 628,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 18,
@@ -195,7 +413,17 @@
     "longitude": -73.98010177430896,
     "foursquare_url": "https://app.foursquare.com/v/gartners-hardware/4b81a763f964a52098b530e3",
     "first_checkin": "2013-08-04 20:28:39.000000",
-    "last_checkin": "2014-11-16 16:18:33.000000"
+    "last_checkin": "2014-11-16 16:18:33.000000",
+    "visit_span_days": 469,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 19,
@@ -206,7 +434,17 @@
     "longitude": -74.01292163795515,
     "foursquare_url": "https://app.foursquare.com/v/gregorys-coffee/53051e8b498e331dc90d6eb4",
     "first_checkin": "2015-06-12 14:04:21.000000",
-    "last_checkin": "2015-08-20 17:43:54.000000"
+    "last_checkin": "2015-08-20 17:43:54.000000",
+    "visit_span_days": 69,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 20,
@@ -217,7 +455,22 @@
     "longitude": -74.0093696283067,
     "foursquare_url": "https://app.foursquare.com/v/joynture/537e2b34498e4035f09817e3",
     "first_checkin": "2014-09-09 13:31:06.000000",
-    "last_checkin": "2014-09-22 15:35:48.000000"
+    "last_checkin": "2014-09-22 15:35:48.000000",
+    "visit_span_days": 13,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": "dislike",
+    "tip_count": 1,
+    "latest_tip": {
+      "text": "\"Welcome to this cool shared officespace. Do feel at home. Btw we don't like kids here.\"",
+      "created_at": "2014-09-17 17:22:13.000000",
+      "agree_count": 0,
+      "canonical_url": "https://app.foursquare.com/item/5419c345498efec85173df89"
+    },
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 21,
@@ -228,7 +481,20 @@
     "longitude": -74.00996641644751,
     "foursquare_url": "https://app.foursquare.com/v/open-kitchen/520e5d1511d2dfea7d037d26",
     "first_checkin": "2014-09-10 16:33:29.000000",
-    "last_checkin": "2014-11-20 19:49:56.000000"
+    "last_checkin": "2014-11-20 19:49:56.000000",
+    "visit_span_days": 71,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Every day, I buy a plastic box here, eat the content, then trash it. So does many other. Easy, but shops should be forced to go green.",
+      "created_at": "2014-10-21 16:48:16.000000"
+    },
+    "comment_count_total": 2,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 22,
@@ -239,7 +505,17 @@
     "longitude": -74.00947291869514,
     "foursquare_url": "https://app.foursquare.com/v/xai/544a5d03498e66ddaa8cc295",
     "first_checkin": "2014-10-24 14:07:11.000000",
-    "last_checkin": "2015-02-02 15:52:21.000000"
+    "last_checkin": "2015-02-02 15:52:21.000000",
+    "visit_span_days": 101,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 1,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 23,
@@ -250,7 +526,17 @@
     "longitude": -73.96769315328552,
     "foursquare_url": "https://app.foursquare.com/v/central-park--72nd-st-playground/4a38048cf964a520a79e1fe3",
     "first_checkin": "2013-07-10 23:10:18.000000",
-    "last_checkin": "2014-07-04 22:00:02.000000"
+    "last_checkin": "2014-07-04 22:00:02.000000",
+    "visit_span_days": 359,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 24,
@@ -261,7 +547,17 @@
     "longitude": -73.96575889748962,
     "foursquare_url": "https://app.foursquare.com/v/marlow--sons/4176fc00f964a520b21d1fe3",
     "first_checkin": "2013-07-04 14:34:34.000000",
-    "last_checkin": "2013-07-15 18:33:47.000000"
+    "last_checkin": "2013-07-15 18:33:47.000000",
+    "visit_span_days": 11,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 25,
@@ -272,7 +568,17 @@
     "longitude": -73.96302106011225,
     "foursquare_url": "https://app.foursquare.com/v/the-metropolitan-museum-of-art/427c0500f964a52097211fe3",
     "first_checkin": "2013-09-01 18:44:11.000000",
-    "last_checkin": "2015-08-15 22:06:21.000000"
+    "last_checkin": "2015-08-15 22:06:21.000000",
+    "visit_span_days": 713,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 26,
@@ -283,7 +589,20 @@
     "longitude": -74.0135700590845,
     "foursquare_url": "https://app.foursquare.com/v/wework-25-broadway/52681085498e16a8ac061157",
     "first_checkin": "2015-03-26 21:01:05.000000",
-    "last_checkin": "2015-08-20 20:54:20.000000"
+    "last_checkin": "2015-08-20 20:54:20.000000",
+    "visit_span_days": 147,
+    "note_count": 1,
+    "latest_note": {
+      "text": "moving in",
+      "created_at": "2015-03-26 21:01:05.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 27,
@@ -294,7 +613,17 @@
     "longitude": -74.00709148721968,
     "foursquare_url": "https://app.foursquare.com/v/financier-patisserie/4e0cb1c918509581f763fea2",
     "first_checkin": "2013-07-24 18:10:40.000000",
-    "last_checkin": "2015-06-03 13:23:33.000000"
+    "last_checkin": "2015-06-03 13:23:33.000000",
+    "visit_span_days": 679,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 7,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 28,
@@ -305,7 +634,17 @@
     "longitude": -73.9727898529965,
     "foursquare_url": "https://app.foursquare.com/v/joe-coffee-company/4a773e0df964a520f1e31fe3",
     "first_checkin": "2013-10-07 12:38:09.000000",
-    "last_checkin": "2015-08-28 18:12:25.000000"
+    "last_checkin": "2015-08-28 18:12:25.000000",
+    "visit_span_days": 690,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 1,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 29,
@@ -316,7 +655,20 @@
     "longitude": -73.78252026145493,
     "foursquare_url": "https://app.foursquare.com/v/john-f-kennedy-international-airport-jfk/43a52546f964a520532c1fe3",
     "first_checkin": "2014-07-15 14:17:16.000000",
-    "last_checkin": "2015-06-29 01:19:07.000000"
+    "last_checkin": "2015-06-29 01:19:07.000000",
+    "visit_span_days": 348,
+    "note_count": 3,
+    "latest_note": {
+      "text": "✈️",
+      "created_at": "2015-01-05 01:04:58.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 30,
@@ -327,7 +679,17 @@
     "longitude": -74.01000658481314,
     "foursquare_url": "https://app.foursquare.com/v/kaffe-landskap/4f6a28d5e4b085e9a4b3c5e1",
     "first_checkin": "2013-11-20 14:15:52.000000",
-    "last_checkin": "2014-01-09 20:09:16.000000"
+    "last_checkin": "2014-01-09 20:09:16.000000",
+    "visit_span_days": 50,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 1,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 31,
@@ -338,7 +700,17 @@
     "longitude": -74.00808423213812,
     "foursquare_url": "https://app.foursquare.com/v/the-standard-high-line/49d3d4a7f964a5201a5c1fe3",
     "first_checkin": "2013-07-02 03:25:39.000000",
-    "last_checkin": "2013-07-03 19:35:46.000000"
+    "last_checkin": "2013-07-03 19:35:46.000000",
+    "visit_span_days": 2,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 32,
@@ -349,7 +721,20 @@
     "longitude": -74.0106607541512,
     "foursquare_url": "https://app.foursquare.com/v/15-broad-street/4b70dccbf964a5201a322de3",
     "first_checkin": "2014-01-20 16:57:54.000000",
-    "last_checkin": "2015-08-20 22:33:40.000000"
+    "last_checkin": "2015-08-20 22:33:40.000000",
+    "visit_span_days": 577,
+    "note_count": 1,
+    "latest_note": {
+      "text": "goodbye party",
+      "created_at": "2015-08-20 22:33:40.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 33,
@@ -360,7 +745,17 @@
     "longitude": -73.96031188297967,
     "foursquare_url": "https://app.foursquare.com/v/49-putnam-avenue/51f847c2498e905c9b365d51",
     "first_checkin": "2013-07-30 23:10:02.000000",
-    "last_checkin": "2013-08-01 02:19:15.000000"
+    "last_checkin": "2013-08-01 02:19:15.000000",
+    "visit_span_days": 1,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 34,
@@ -371,7 +766,17 @@
     "longitude": -73.96931171443009,
     "foursquare_url": "https://app.foursquare.com/v/consulate-general-of-denmark/4c052546187ec92814f8b77b",
     "first_checkin": "2013-07-12 18:45:48.000000",
-    "last_checkin": "2013-09-04 15:50:55.000000"
+    "last_checkin": "2013-09-04 15:50:55.000000",
+    "visit_span_days": 54,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 35,
@@ -382,7 +787,22 @@
     "longitude": -73.98514649353932,
     "foursquare_url": "https://app.foursquare.com/v/hudson-hotel/3fd66200f964a520bee71ee3",
     "first_checkin": "2013-07-15 22:57:50.000000",
-    "last_checkin": "2013-07-17 19:31:49.000000"
+    "last_checkin": "2013-07-17 19:31:49.000000",
+    "visit_span_days": 2,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 2,
+    "latest_tip": {
+      "text": "The toilet in the lobby is bigger than your room.",
+      "created_at": "2013-07-17 21:55:54.000000",
+      "agree_count": 1,
+      "canonical_url": "https://app.foursquare.com/item/51e712ea498e17ecc38c8fc9"
+    },
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 36,
@@ -393,7 +813,20 @@
     "longitude": -74.01179693768032,
     "foursquare_url": "https://app.foursquare.com/v/kaffe-1668/49ccd495f964a52091591fe3",
     "first_checkin": "2013-08-19 13:19:06.000000",
-    "last_checkin": "2015-08-17 13:30:30.000000"
+    "last_checkin": "2015-08-17 13:30:30.000000",
+    "visit_span_days": 728,
+    "note_count": 1,
+    "latest_note": {
+      "text": "When there's a line on the street it must be good.",
+      "created_at": "2013-08-19 13:19:06.000000"
+    },
+    "comment_count_total": 6,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 37,
@@ -404,7 +837,22 @@
     "longitude": -73.97675577259626,
     "foursquare_url": "https://app.foursquare.com/v/museum-of-modern-art-moma/4af5a46af964a520b5fa21e3",
     "first_checkin": "2014-03-21 16:11:00.000000",
-    "last_checkin": "2015-08-25 17:21:04.000000"
+    "last_checkin": "2015-08-25 17:21:04.000000",
+    "visit_span_days": 522,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 2,
+    "latest_photo": {
+      "created_at": "2014-03-21 21:37:22.000000",
+      "url": "https://fastly.4sqi.net/img/general/717x959/75719_UwedpS6OAqjK2MXjFudiOTGc8Iz12sUSIBduj_wnUJ0.jpg",
+      "width": 717,
+      "height": 959
+    }
   },
   {
     "rank": 38,
@@ -415,7 +863,17 @@
     "longitude": -73.96573019918625,
     "foursquare_url": "https://app.foursquare.com/v/riverside-park-119th-street-tennis-courts/4e652fbf52b1260c144d1676",
     "first_checkin": "2014-06-11 21:10:17.000000",
-    "last_checkin": "2014-08-10 22:26:10.000000"
+    "last_checkin": "2014-08-10 22:26:10.000000",
+    "visit_span_days": 60,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 39,
@@ -426,7 +884,17 @@
     "longitude": -73.98472180100865,
     "foursquare_url": "https://app.foursquare.com/v/trader-joes/4bed50be91380f47b4af9f18",
     "first_checkin": "2013-08-19 00:13:01.000000",
-    "last_checkin": "2015-08-29 01:19:31.000000"
+    "last_checkin": "2015-08-29 01:19:31.000000",
+    "visit_span_days": 740,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 40,
@@ -437,7 +905,20 @@
     "longitude": -73.97653193850032,
     "foursquare_url": "https://app.foursquare.com/v/upper-west-side/4b2da0ddf964a520c9d924e3",
     "first_checkin": "2014-05-15 15:33:06.000000",
-    "last_checkin": "2015-01-01 15:51:33.000000"
+    "last_checkin": "2015-01-01 15:51:33.000000",
+    "visit_span_days": 231,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Working",
+      "created_at": "2014-05-15 15:33:06.000000"
+    },
+    "comment_count_total": 1,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 41,
@@ -448,7 +929,20 @@
     "longitude": -74.00602413722416,
     "foursquare_url": "https://app.foursquare.com/v/wework-labs-ny/4d9105f96174a09392ecffe3",
     "first_checkin": "2013-08-02 15:42:38.000000",
-    "last_checkin": "2014-11-17 23:16:26.000000"
+    "last_checkin": "2014-11-17 23:16:26.000000",
+    "visit_span_days": 472,
+    "note_count": 1,
+    "latest_note": {
+      "text": "DevOps masterclass with doctor @roncohen",
+      "created_at": "2014-11-17 23:16:26.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 42,
@@ -459,7 +953,17 @@
     "longitude": -73.99427715568002,
     "foursquare_url": "https://app.foursquare.com/v/adorama/49d92230f964a520035e1fe3",
     "first_checkin": "2015-06-22 23:20:59.000000",
-    "last_checkin": "2015-08-07 15:20:21.000000"
+    "last_checkin": "2015-08-07 15:20:21.000000",
+    "visit_span_days": 46,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 43,
@@ -470,7 +974,22 @@
     "longitude": -73.97854069670709,
     "foursquare_url": "https://app.foursquare.com/v/alden-shoes/4bb22a76f964a5205abf3ce3",
     "first_checkin": "2014-02-28 16:20:01.000000",
-    "last_checkin": "2015-08-25 16:37:55.000000"
+    "last_checkin": "2015-08-25 16:37:55.000000",
+    "visit_span_days": 543,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 1,
+    "latest_tip": {
+      "text": "Try the shoes",
+      "created_at": "2014-03-01 00:06:18.000000",
+      "agree_count": 0,
+      "canonical_url": "https://app.foursquare.com/item/5311247a11d2929c6694b74e"
+    },
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 44,
@@ -481,7 +1000,17 @@
     "longitude": -73.97419601329243,
     "foursquare_url": "https://app.foursquare.com/v/american-museum-of-natural-history/4297b480f964a52062241fe3",
     "first_checkin": "2013-07-06 19:15:33.000000",
-    "last_checkin": "2013-09-10 20:07:18.000000"
+    "last_checkin": "2013-09-10 20:07:18.000000",
+    "visit_span_days": 66,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 45,
@@ -492,7 +1021,20 @@
     "longitude": -73.98221953946711,
     "foursquare_url": "https://app.foursquare.com/v/apple-upper-west-side/4afc15ebf964a520cf1f22e3",
     "first_checkin": "2013-11-03 17:12:45.000000",
-    "last_checkin": "2014-01-11 19:07:28.000000"
+    "last_checkin": "2014-01-11 19:07:28.000000",
+    "visit_span_days": 69,
+    "note_count": 1,
+    "latest_note": {
+      "text": "My MacBook needs a doctor.",
+      "created_at": "2013-11-03 17:12:45.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 46,
@@ -503,7 +1045,17 @@
     "longitude": -73.9786038287678,
     "foursquare_url": "https://app.foursquare.com/v/barnes--noble/44193e5af964a52022311fe3",
     "first_checkin": "2015-02-14 20:43:28.000000",
-    "last_checkin": "2015-03-28 20:30:17.000000"
+    "last_checkin": "2015-03-28 20:30:17.000000",
+    "visit_span_days": 42,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 47,
@@ -514,7 +1066,17 @@
     "longitude": -73.98203014678525,
     "foursquare_url": "https://app.foursquare.com/v/bed-bath--beyond/4ab94773f964a520c07e20e3",
     "first_checkin": "2013-08-03 20:08:23.000000",
-    "last_checkin": "2014-06-16 21:21:25.000000"
+    "last_checkin": "2014-06-16 21:21:25.000000",
+    "visit_span_days": 317,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 2,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 48,
@@ -525,7 +1087,22 @@
     "longitude": -74.01177972282878,
     "foursquare_url": "https://app.foursquare.com/v/bluestone-lane/524aeb0111d2ae4d1b1eea62",
     "first_checkin": "2015-02-05 20:39:33.000000",
-    "last_checkin": "2015-03-04 22:05:10.000000"
+    "last_checkin": "2015-03-04 22:05:10.000000",
+    "visit_span_days": 27,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Jane",
+      "created_at": "2015-02-05 20:39:33.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [
+      "New York"
+    ],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 49,
@@ -536,7 +1113,17 @@
     "longitude": -74.00866954753637,
     "foursquare_url": "https://app.foursquare.com/v/bubbys/40f1d480f964a5205b0a1fe3",
     "first_checkin": "2013-10-28 16:32:01.000000",
-    "last_checkin": "2014-01-15 18:38:41.000000"
+    "last_checkin": "2014-01-15 18:38:41.000000",
+    "visit_span_days": 79,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 50,
@@ -547,7 +1134,17 @@
     "longitude": -73.98461849727812,
     "foursquare_url": "https://app.foursquare.com/v/chipotle-mexican-grill/4ad0d761f964a5204ada20e3",
     "first_checkin": "2014-01-18 00:16:13.000000",
-    "last_checkin": "2015-08-08 00:20:06.000000"
+    "last_checkin": "2015-08-08 00:20:06.000000",
+    "visit_span_days": 567,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 51,
@@ -558,7 +1155,32 @@
     "longitude": -73.96701013936129,
     "foursquare_url": "https://app.foursquare.com/v/conservatory-water/4a070d7ef964a52020731fe3",
     "first_checkin": "2013-09-08 22:56:39.000000",
-    "last_checkin": "2013-09-23 20:45:49.000000"
+    "last_checkin": "2013-09-23 20:45:49.000000",
+    "visit_span_days": 15,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Boat race",
+      "created_at": "2013-09-09 21:13:13.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 1,
+    "latest_tip": {
+      "text": "Rent a radio controlled sailboat. Show the kids the joy of sailing.",
+      "created_at": "2013-07-12 02:46:55.000000",
+      "agree_count": 3,
+      "canonical_url": "https://app.foursquare.com/item/51df6e1f498e688753625c88"
+    },
+    "lists": [
+      "New York"
+    ],
+    "photo_count": 1,
+    "latest_photo": {
+      "created_at": "2013-09-08 22:56:48.000000",
+      "url": "https://fastly.4sqi.net/img/general/959x717/75719_o6_tEDiJZJ-JziEsOlZPuemV2g46fM8dM7TpeZDogs4.jpg",
+      "width": 959,
+      "height": 717
+    }
   },
   {
     "rank": 52,
@@ -569,7 +1191,20 @@
     "longitude": -73.97124593455545,
     "foursquare_url": "https://app.foursquare.com/v/diana-ross-playground/4b6f1201f964a520f8da2ce3",
     "first_checkin": "2013-07-16 15:24:27.000000",
-    "last_checkin": "2015-06-14 14:53:45.000000"
+    "last_checkin": "2015-06-14 14:53:45.000000",
+    "visit_span_days": 698,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Oscar & Smillas birthday",
+      "created_at": "2015-06-14 14:53:45.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 53,
@@ -580,7 +1215,20 @@
     "longitude": -74.01083290360494,
     "foursquare_url": "https://app.foursquare.com/v/ikea/4858e403f964a520bf501fe3",
     "first_checkin": "2013-08-05 22:55:52.000000",
-    "last_checkin": "2014-06-22 21:42:30.000000"
+    "last_checkin": "2014-06-22 21:42:30.000000",
+    "visit_span_days": 321,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Shoot me",
+      "created_at": "2013-08-05 22:55:52.000000"
+    },
+    "comment_count_total": 6,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 54,
@@ -591,18 +1239,38 @@
     "longitude": -73.95628822555909,
     "foursquare_url": "https://app.foursquare.com/v/le-pain-quotidien/4b08567df964a520680923e3",
     "first_checkin": "2014-01-25 22:42:01.000000",
-    "last_checkin": "2014-03-24 13:13:48.000000"
+    "last_checkin": "2014-03-24 13:13:48.000000",
+    "visit_span_days": 58,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 55,
     "venue_id": "49c650dbf964a52033571fe3",
-    "name": "Le Parker M\u00e9ridien New York",
+    "name": "Le Parker Méridien New York",
     "checkins": 3,
     "latitude": 40.76364836694236,
     "longitude": -73.97682464457338,
     "foursquare_url": "https://app.foursquare.com/v/le-parker-m%C3%A9ridien-new-york/49c650dbf964a52033571fe3",
     "first_checkin": "2014-01-22 00:05:37.000000",
-    "last_checkin": "2015-03-06 03:21:24.000000"
+    "last_checkin": "2015-03-06 03:21:24.000000",
+    "visit_span_days": 408,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 56,
@@ -613,7 +1281,17 @@
     "longitude": -73.94331552118263,
     "foursquare_url": "https://app.foursquare.com/v/lenox-coffee-roaster/4eb0d7bc4fc6015c82ea1c3e",
     "first_checkin": "2015-07-12 18:16:41.000000",
-    "last_checkin": "2015-08-16 12:59:33.000000"
+    "last_checkin": "2015-08-16 12:59:33.000000",
+    "visit_span_days": 35,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 57,
@@ -624,7 +1302,17 @@
     "longitude": -74.00840558199033,
     "foursquare_url": "https://app.foursquare.com/v/new-york-sports-club/4aa82d21f964a520d94f20e3",
     "first_checkin": "2015-07-09 13:34:03.000000",
-    "last_checkin": "2015-07-17 12:08:42.000000"
+    "last_checkin": "2015-07-17 12:08:42.000000",
+    "visit_span_days": 8,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 58,
@@ -635,7 +1323,17 @@
     "longitude": -73.97769128151124,
     "foursquare_url": "https://app.foursquare.com/v/patsys-pizzeria/4a9359caf964a5209b1f20e3",
     "first_checkin": "2013-08-04 00:34:18.000000",
-    "last_checkin": "2015-02-14 23:27:18.000000"
+    "last_checkin": "2015-02-14 23:27:18.000000",
+    "visit_span_days": 560,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 59,
@@ -646,7 +1344,17 @@
     "longitude": -73.98564005394907,
     "foursquare_url": "https://app.foursquare.com/v/ravagh-persian-grill/4a88a3a1f964a520420720e3",
     "first_checkin": "2014-04-08 22:49:58.000000",
-    "last_checkin": "2015-06-27 23:52:11.000000"
+    "last_checkin": "2015-06-27 23:52:11.000000",
+    "visit_span_days": 445,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 60,
@@ -657,7 +1365,17 @@
     "longitude": -73.97873009282702,
     "foursquare_url": "https://app.foursquare.com/v/sido-falafel--more/4a688767f964a52082ca1fe3",
     "first_checkin": "2013-08-25 18:52:34.000000",
-    "last_checkin": "2013-10-26 02:22:49.000000"
+    "last_checkin": "2013-10-26 02:22:49.000000",
+    "visit_span_days": 61,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 61,
@@ -668,7 +1386,17 @@
     "longitude": -73.95421035537034,
     "foursquare_url": "https://app.foursquare.com/v/starbucks/4a887a70f964a520970620e3",
     "first_checkin": "2014-02-27 14:15:25.000000",
-    "last_checkin": "2014-08-31 16:02:45.000000"
+    "last_checkin": "2014-08-31 16:02:45.000000",
+    "visit_span_days": 185,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 62,
@@ -679,7 +1407,20 @@
     "longitude": -73.98131274857049,
     "foursquare_url": "https://app.foursquare.com/v/starbucks/45112af0f964a5208d391fe3",
     "first_checkin": "2013-08-23 11:15:20.000000",
-    "last_checkin": "2014-08-12 00:59:02.000000"
+    "last_checkin": "2014-08-12 00:59:02.000000",
+    "visit_span_days": 354,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Sad when the only #coffee+#wifi option is Starbucks.",
+      "created_at": "2014-08-12 00:59:02.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 63,
@@ -690,7 +1431,20 @@
     "longitude": -73.979476196939,
     "foursquare_url": "https://app.foursquare.com/v/the-halal-guys/4a19d1edf964a5205a7a1fe3",
     "first_checkin": "2014-09-10 01:46:19.000000",
-    "last_checkin": "2015-08-21 03:44:35.000000"
+    "last_checkin": "2015-08-21 03:44:35.000000",
+    "visit_span_days": 345,
+    "note_count": 1,
+    "latest_note": {
+      "text": "I love how you can get street food to stay or to go",
+      "created_at": "2015-08-21 03:44:35.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 64,
@@ -701,7 +1455,17 @@
     "longitude": -74.00777435855494,
     "foursquare_url": "https://app.foursquare.com/v/the-standard-grill/4a4ab03cf964a5201bac1fe3",
     "first_checkin": "2013-07-02 12:31:25.000000",
-    "last_checkin": "2015-06-27 15:32:23.000000"
+    "last_checkin": "2015-06-27 15:32:23.000000",
+    "visit_span_days": 725,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 65,
@@ -712,7 +1476,17 @@
     "longitude": -74.00275892742013,
     "foursquare_url": "https://app.foursquare.com/v/think-coffee/4ecc046b0e61aaf0384f19c4",
     "first_checkin": "2013-11-09 17:11:38.000000",
-    "last_checkin": "2015-04-09 22:55:40.000000"
+    "last_checkin": "2015-04-09 22:55:40.000000",
+    "visit_span_days": 516,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 66,
@@ -723,7 +1497,20 @@
     "longitude": -73.98826278972687,
     "foursquare_url": "https://app.foursquare.com/v/ace-hotel-lobby-bar/4adfb640f964a520e57c21e3",
     "first_checkin": "2013-10-27 16:19:01.000000",
-    "last_checkin": "2013-12-08 22:31:28.000000"
+    "last_checkin": "2013-12-08 22:31:28.000000",
+    "visit_span_days": 42,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Found my new office.",
+      "created_at": "2013-10-27 16:19:01.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 67,
@@ -734,7 +1521,17 @@
     "longitude": -73.99642919691247,
     "foursquare_url": "https://app.foursquare.com/v/bh-photo-video/4adb6119f964a520a72621e3",
     "first_checkin": "2015-07-19 16:20:58.000000",
-    "last_checkin": "2015-08-07 14:29:04.000000"
+    "last_checkin": "2015-08-07 14:29:04.000000",
+    "visit_span_days": 19,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 68,
@@ -745,7 +1542,19 @@
     "longitude": -73.98722976897095,
     "foursquare_url": "https://app.foursquare.com/v/birch-coffee/4aeedbe6f964a5206cd421e3",
     "first_checkin": "2013-12-12 00:18:32.000000",
-    "last_checkin": "2014-11-22 23:22:50.000000"
+    "last_checkin": "2014-11-22 23:22:50.000000",
+    "visit_span_days": 346,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [
+      "Open office"
+    ],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 69,
@@ -756,7 +1565,17 @@
     "longitude": -73.97262340885295,
     "foursquare_url": "https://app.foursquare.com/v/birdbath-neighborhood-green-bakery/5079a336e4b0459b764abfe0",
     "first_checkin": "2013-09-25 22:30:51.000000",
-    "last_checkin": "2014-05-17 12:54:21.000000"
+    "last_checkin": "2014-05-17 12:54:21.000000",
+    "visit_span_days": 234,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 70,
@@ -767,7 +1586,17 @@
     "longitude": -73.9883259185928,
     "foursquare_url": "https://app.foursquare.com/v/broadway-bites-by-urbanspace/526ac6ee498e8a5afdb9be12",
     "first_checkin": "2013-11-23 23:27:26.000000",
-    "last_checkin": "2014-11-12 01:55:42.000000"
+    "last_checkin": "2014-11-12 01:55:42.000000",
+    "visit_span_days": 353,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 71,
@@ -778,7 +1607,17 @@
     "longitude": -73.96269389455495,
     "foursquare_url": "https://app.foursquare.com/v/brooklyn-harvest-market/5159ce3ee4b03ece5ddfd707",
     "first_checkin": "2013-08-07 21:20:25.000000",
-    "last_checkin": "2013-08-09 23:01:42.000000"
+    "last_checkin": "2013-08-09 23:01:42.000000",
+    "visit_span_days": 2,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 72,
@@ -789,7 +1628,22 @@
     "longitude": -73.97863252515218,
     "foursquare_url": "https://app.foursquare.com/v/burger-joint/41b3a100f964a5206c1e1fe3",
     "first_checkin": "2014-01-04 22:51:02.000000",
-    "last_checkin": "2014-02-13 22:08:19.000000"
+    "last_checkin": "2014-02-13 22:08:19.000000",
+    "visit_span_days": 40,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Pre movie burger",
+      "created_at": "2014-02-13 22:08:19.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [
+      "New York"
+    ],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 73,
@@ -800,29 +1654,61 @@
     "longitude": -74.00420503775658,
     "foursquare_url": "https://app.foursquare.com/v/buvette/4d0bf7e3f29c236ac675bfe7",
     "first_checkin": "2014-04-10 22:15:22.000000",
-    "last_checkin": "2015-08-08 18:07:47.000000"
+    "last_checkin": "2015-08-08 18:07:47.000000",
+    "visit_span_days": 485,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [
+      "New York"
+    ],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 74,
     "venue_id": "49f4f7ebf964a5207c6b1fe3",
-    "name": "Caf\u00e9 Blossom",
+    "name": "Café Blossom",
     "checkins": 2,
     "latitude": 40.78420638700392,
     "longitude": -73.97386886671204,
     "foursquare_url": "https://app.foursquare.com/v/caf%C3%A9-blossom/49f4f7ebf964a5207c6b1fe3",
     "first_checkin": "2013-07-06 21:25:05.000000",
-    "last_checkin": "2013-07-13 19:34:58.000000"
+    "last_checkin": "2013-07-13 19:34:58.000000",
+    "visit_span_days": 7,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 75,
     "venue_id": "4e302cb1c65b80dfd84807cc",
-    "name": "Caf\u00e9 de La Esquina",
+    "name": "Café de La Esquina",
     "checkins": 2,
     "latitude": 40.71717635709089,
     "longitude": -73.96299810114388,
     "foursquare_url": "https://app.foursquare.com/v/caf%C3%A9-de-la-esquina/4e302cb1c65b80dfd84807cc",
     "first_checkin": "2013-08-11 01:06:07.000000",
-    "last_checkin": "2014-06-15 17:24:16.000000"
+    "last_checkin": "2014-06-15 17:24:16.000000",
+    "visit_span_days": 309,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 76,
@@ -833,7 +1719,22 @@
     "longitude": -73.97301943088935,
     "foursquare_url": "https://app.foursquare.com/v/central-park-conservancy-film-festival/5216968c11d20eb08b512f9d",
     "first_checkin": "2013-08-23 23:18:58.000000",
-    "last_checkin": "2013-08-27 00:24:06.000000"
+    "last_checkin": "2013-08-27 00:24:06.000000",
+    "visit_span_days": 3,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 1,
+    "latest_photo": {
+      "created_at": "2013-08-23 23:19:12.000000",
+      "url": "https://fastly.4sqi.net/img/general/959x717/75719_FpnAyaAHzdCvz3xOYueXIZekoOLiYTIFLPX7CTpUEDs.jpg",
+      "width": 959,
+      "height": 717
+    }
   },
   {
     "rank": 77,
@@ -844,7 +1745,25 @@
     "longitude": -73.97695090980072,
     "foursquare_url": "https://app.foursquare.com/v/clay-tennis-courts/4c8fa8f958668cfa1b19dcec",
     "first_checkin": "2014-07-10 00:11:12.000000",
-    "last_checkin": "2014-07-11 22:06:12.000000"
+    "last_checkin": "2014-07-11 22:06:12.000000",
+    "visit_span_days": 2,
+    "note_count": 2,
+    "latest_note": {
+      "text": "vs Natasha Friis",
+      "created_at": "2014-07-11 22:06:12.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 1,
+    "latest_photo": {
+      "created_at": "2014-07-10 00:19:44.000000",
+      "url": "https://fastly.4sqi.net/img/general/959x717/75719_lEbmCIDChGhir99H9VZwggFmWNzWRjzRR5g9V0AJg1U.jpg",
+      "width": 959,
+      "height": 717
+    }
   },
   {
     "rank": 78,
@@ -855,18 +1774,38 @@
     "longitude": -73.96331952645232,
     "foursquare_url": "https://app.foursquare.com/v/corrado-bread--pastry/4ab79ff3f964a5203f7a20e3",
     "first_checkin": "2013-07-11 21:59:14.000000",
-    "last_checkin": "2014-11-03 15:37:01.000000"
+    "last_checkin": "2014-11-03 15:37:01.000000",
+    "visit_span_days": 480,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 79,
     "venue_id": "4a673d8ef964a52007c91fe3",
-    "name": "Dag Hammarskj\u00f6ld Plaza",
+    "name": "Dag Hammarskjöld Plaza",
     "checkins": 2,
     "latitude": 40.75345957262764,
     "longitude": -73.9701956037819,
     "foursquare_url": "https://app.foursquare.com/v/dag-hammarskj%C3%B6ld-plaza/4a673d8ef964a52007c91fe3",
     "first_checkin": "2013-07-02 17:33:57.000000",
-    "last_checkin": "2013-07-02 19:50:11.000000"
+    "last_checkin": "2013-07-02 19:50:11.000000",
+    "visit_span_days": 0,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 80,
@@ -877,7 +1816,17 @@
     "longitude": -73.97475273514199,
     "foursquare_url": "https://app.foursquare.com/v/dinosaur-playground/4ba24f02f964a520e2eb37e3",
     "first_checkin": "2013-07-08 22:03:44.000000",
-    "last_checkin": "2014-07-08 21:54:29.000000"
+    "last_checkin": "2014-07-08 21:54:29.000000",
+    "visit_span_days": 365,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 81,
@@ -888,7 +1837,25 @@
     "longitude": -73.96485776872495,
     "foursquare_url": "https://app.foursquare.com/v/gourmet-guild/4ef0a5ae0aaf9ae283624041",
     "first_checkin": "2013-07-10 17:36:08.000000",
-    "last_checkin": "2013-07-15 15:27:09.000000"
+    "last_checkin": "2013-07-15 15:27:09.000000",
+    "visit_span_days": 5,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Getting Coke for a stomach can be a challenge in organic Hipsterville.",
+      "created_at": "2013-07-15 15:27:09.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 1,
+    "latest_photo": {
+      "created_at": "2013-07-15 15:27:12.000000",
+      "url": "https://fastly.4sqi.net/img/general/717x959/75719_rdHBio_RuqmpvpYNDdpP_SZdY8RyxaZD8-kpShfj1LU.jpg",
+      "width": 717,
+      "height": 959
+    }
   },
   {
     "rank": 82,
@@ -899,7 +1866,17 @@
     "longitude": -74.00543307525608,
     "foursquare_url": "https://app.foursquare.com/v/grandaisy-bakery/4a01e214f964a52005711fe3",
     "first_checkin": "2013-10-29 21:43:32.000000",
-    "last_checkin": "2014-11-01 20:31:36.000000"
+    "last_checkin": "2014-11-01 20:31:36.000000",
+    "visit_span_days": 368,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 83,
@@ -910,7 +1887,17 @@
     "longitude": -74.00251790796852,
     "foursquare_url": "https://app.foursquare.com/v/ground-support/4a942a25f964a520972020e3",
     "first_checkin": "2013-12-06 00:23:24.000000",
-    "last_checkin": "2015-08-15 18:12:28.000000"
+    "last_checkin": "2015-08-15 18:12:28.000000",
+    "visit_span_days": 618,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 84,
@@ -921,7 +1908,17 @@
     "longitude": -73.978609568045,
     "foursquare_url": "https://app.foursquare.com/v/heckscher-playground/4aec827af964a5200cc821e3",
     "first_checkin": "2014-07-07 22:12:45.000000",
-    "last_checkin": "2014-12-07 21:14:30.000000"
+    "last_checkin": "2014-12-07 21:14:30.000000",
+    "visit_span_days": 153,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 85,
@@ -932,7 +1929,17 @@
     "longitude": -73.97647454510043,
     "foursquare_url": "https://app.foursquare.com/v/isabellas/3fd66200f964a5203ae81ee3",
     "first_checkin": "2014-01-01 23:01:46.000000",
-    "last_checkin": "2014-01-11 23:28:39.000000"
+    "last_checkin": "2014-01-11 23:28:39.000000",
+    "visit_span_days": 10,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 86,
@@ -943,7 +1950,17 @@
     "longitude": -73.97537832787576,
     "foursquare_url": "https://app.foursquare.com/v/jacobs-pickles/4edfd5865c5cced979ab7dd1",
     "first_checkin": "2014-03-15 16:29:43.000000",
-    "last_checkin": "2014-04-01 23:06:37.000000"
+    "last_checkin": "2014-04-01 23:06:37.000000",
+    "visit_span_days": 17,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 87,
@@ -954,7 +1971,17 @@
     "longitude": -73.97608426952706,
     "foursquare_url": "https://app.foursquare.com/v/le-pain-quotidien/4ae36cf6f964a520f49421e3",
     "first_checkin": "2014-03-25 20:21:36.000000",
-    "last_checkin": "2015-09-01 19:29:26.000000"
+    "last_checkin": "2015-09-01 19:29:26.000000",
+    "visit_span_days": 525,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 88,
@@ -965,7 +1992,17 @@
     "longitude": -73.99813359642076,
     "foursquare_url": "https://app.foursquare.com/v/le-pain-quotidien/49de6d62f964a52050601fe3",
     "first_checkin": "2013-11-13 14:05:58.000000",
-    "last_checkin": "2015-08-28 20:15:30.000000"
+    "last_checkin": "2015-08-28 20:15:30.000000",
+    "visit_span_days": 653,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 89,
@@ -976,7 +2013,17 @@
     "longitude": -73.97408122508193,
     "foursquare_url": "https://app.foursquare.com/v/le-pain-quotidien/4c8a45c81797236a6efe5f88",
     "first_checkin": "2013-07-02 18:26:37.000000",
-    "last_checkin": "2013-07-12 19:24:00.000000"
+    "last_checkin": "2013-07-12 19:24:00.000000",
+    "visit_span_days": 10,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 90,
@@ -987,7 +2034,20 @@
     "longitude": -73.95326325242603,
     "foursquare_url": "https://app.foursquare.com/v/lulus-taqueria-and-tequila-bar/5547feaf498ecece778aedfc",
     "first_checkin": "2015-07-12 17:13:31.000000",
-    "last_checkin": "2015-08-16 19:24:12.000000"
+    "last_checkin": "2015-08-16 19:24:12.000000",
+    "visit_span_days": 35,
+    "note_count": 1,
+    "latest_note": {
+      "text": "+live jazz",
+      "created_at": "2015-07-12 17:13:31.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 91,
@@ -998,7 +2058,17 @@
     "longitude": -74.01025333315975,
     "foursquare_url": "https://app.foursquare.com/v/max-restaurant/4a31891bf964a520ed991fe3",
     "first_checkin": "2013-11-07 17:18:37.000000",
-    "last_checkin": "2013-12-09 18:12:14.000000"
+    "last_checkin": "2013-12-09 18:12:14.000000",
+    "visit_span_days": 32,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": "like",
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 92,
@@ -1009,7 +2079,25 @@
     "longitude": -73.97180266493736,
     "foursquare_url": "https://app.foursquare.com/v/milk-bar/4e559655b61cf9ba5f73c672",
     "first_checkin": "2013-07-13 21:18:47.000000",
-    "last_checkin": "2013-07-16 21:52:39.000000"
+    "last_checkin": "2013-07-16 21:52:39.000000",
+    "visit_span_days": 3,
+    "note_count": 1,
+    "latest_note": {
+      "text": "Thanks for charging my phone.",
+      "created_at": "2013-07-13 21:18:47.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 1,
+    "latest_photo": {
+      "created_at": "2013-07-13 21:18:50.000000",
+      "url": "https://fastly.4sqi.net/img/general/959x717/75719_ZZy8rd75tTP1gup2FelZoMtEzKb2-gGOi2tFTqZ4bfA.jpg",
+      "width": 959,
+      "height": 717
+    }
   },
   {
     "rank": 93,
@@ -1020,7 +2108,17 @@
     "longitude": -73.9815882298017,
     "foursquare_url": "https://app.foursquare.com/v/mongodb-world-2015/556b0149498e5bcca892777c",
     "first_checkin": "2015-06-01 13:29:35.000000",
-    "last_checkin": "2015-06-02 14:36:59.000000"
+    "last_checkin": "2015-06-02 14:36:59.000000",
+    "visit_span_days": 1,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 94,
@@ -1031,7 +2129,17 @@
     "longitude": -74.0090654951722,
     "foursquare_url": "https://app.foursquare.com/v/nyc-love-street-coffee/4b294d4ff964a520939c24e3",
     "first_checkin": "2014-10-16 16:55:45.000000",
-    "last_checkin": "2014-11-11 14:38:42.000000"
+    "last_checkin": "2014-11-11 14:38:42.000000",
+    "visit_span_days": 26,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 95,
@@ -1042,7 +2150,17 @@
     "longitude": -73.97753632022626,
     "foursquare_url": "https://app.foursquare.com/v/nancys-wines/4a9329abf964a520081f20e3",
     "first_checkin": "2014-01-17 22:42:51.000000",
-    "last_checkin": "2014-06-13 20:07:36.000000"
+    "last_checkin": "2014-06-13 20:07:36.000000",
+    "visit_span_days": 147,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 96,
@@ -1053,7 +2171,17 @@
     "longitude": -73.97702552103246,
     "foursquare_url": "https://app.foursquare.com/v/organic-avenue/4f21d333e4b0e1207ef4fa24",
     "first_checkin": "2013-07-13 22:10:53.000000",
-    "last_checkin": "2013-09-10 19:40:52.000000"
+    "last_checkin": "2013-09-10 19:40:52.000000",
+    "visit_span_days": 59,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 97,
@@ -1064,18 +2192,38 @@
     "longitude": -73.97280133189763,
     "foursquare_url": "https://app.foursquare.com/v/osteria-cotta/4d68839467a8f04df7ee01be",
     "first_checkin": "2013-11-02 04:00:09.000000",
-    "last_checkin": "2015-06-16 01:20:30.000000"
+    "last_checkin": "2015-06-16 01:20:30.000000",
+    "visit_span_days": 591,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 98,
     "venue_id": "4a01c9dbf964a520fe701fe3",
-    "name": "Outpost Caf\u00e9 and Bar",
+    "name": "Outpost Café and Bar",
     "checkins": 2,
     "latitude": 40.68167724217704,
     "longitude": -73.96038076083573,
     "foursquare_url": "https://app.foursquare.com/v/outpost-caf%C3%A9-and-bar/4a01c9dbf964a520fe701fe3",
     "first_checkin": "2013-07-31 00:34:38.000000",
-    "last_checkin": "2013-07-31 22:14:00.000000"
+    "last_checkin": "2013-07-31 22:14:00.000000",
+    "visit_span_days": 1,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 99,
@@ -1086,7 +2234,20 @@
     "longitude": -73.96498978148249,
     "foursquare_url": "https://app.foursquare.com/v/ox-tavern/4c8afaad6418a143a961e5ce",
     "first_checkin": "2014-09-26 01:25:09.000000",
-    "last_checkin": "2015-04-05 19:42:22.000000"
+    "last_checkin": "2015-04-05 19:42:22.000000",
+    "visit_span_days": 192,
+    "note_count": 1,
+    "latest_note": {
+      "text": "On photo tour, having a drink to see if that improves my photos. 📷",
+      "created_at": "2015-04-05 19:42:22.000000"
+    },
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   },
   {
     "rank": 100,
@@ -1097,6 +2258,16 @@
     "longitude": -73.97737561950257,
     "foursquare_url": "https://app.foursquare.com/v/paper-source/4fecfe00e4b09670973a5dc4",
     "first_checkin": "2013-08-20 20:19:55.000000",
-    "last_checkin": "2013-10-06 21:42:40.000000"
+    "last_checkin": "2013-10-06 21:42:40.000000",
+    "visit_span_days": 47,
+    "note_count": 0,
+    "latest_note": null,
+    "comment_count_total": 0,
+    "reaction": null,
+    "tip_count": 0,
+    "latest_tip": null,
+    "lists": [],
+    "photo_count": 0,
+    "latest_photo": null
   }
 ]
